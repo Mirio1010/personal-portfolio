@@ -90,4 +90,11 @@ footer {
 #github {
   font-size: 2rem;
   margin-left: 50px;
+  cursor: pointer;
+  color: white;
+}
+
+a:visited {
+  text-decoration: none;
+  color: white;
 }
