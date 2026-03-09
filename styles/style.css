@@ -17,8 +17,7 @@
   background: #eee;
 }
 body {
-  font-family:
-    sans-serif;
+  font-family: sans-serif;
   margin: 0;
   padding: 0;
   background: #f7f7f7;
@@ -71,12 +70,20 @@ section {
 }
 footer {
   text-align: center;
-  padding: 0.1rem 0;
+  padding: 0.5rem 0;
   background: #222;
   color: #fff;
-  position: fixed;
+  /* allow footer to flow naturally instead of staying fixed at the bottom */
+  position: static;
   width: 100%;
-  bottom: 0;
+  /* bottom: 0; removed */
+}
+
+/* make sure main content doesn’t get hidden if footer were to overlap */
+main {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 0 1rem 3rem; /* extra bottom padding for spacing from footer */
 }
 @media (max-width: 600px) {
   main {
