@@ -150,3 +150,6 @@ function drawCloud(x, y) {
 
 drawCloud(100, 80);
 drawCloud(220, 120);
+
+
+// Note, this was really cool and interesting. I've never done something like this until now. I will definitely use this in my future web related projects for styling pages!
