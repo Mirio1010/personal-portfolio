@@ -1,0 +1,11 @@
+{
+  "profile": {
+    "displayName": "Guest Explorer",
+    "preferredDataset": "solar-system",
+    "lastOpenedTopic": "sun"
+  },
+  "customization": {
+    "allowTextToSpeech": true,
+    "notes": "This file is a sample place for user-related settings. Browser progress is stored locally in localStorage."
+  }
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title">
+  <title id="title">Pocket Planetarium quiz screenshot</title>
+  <rect width="900" height="560" fill="#f8fbf9"/>
+  <rect x="48" y="50" width="804" height="460" rx="8" fill="#ffffff" stroke="#d7e2df"/>
+  <rect x="90" y="96" width="130" height="20" rx="6" fill="#d9543f"/>
+  <rect x="90" y="140" width="388" height="42" rx="6" fill="#1f2526"/>
+  <rect x="90" y="220" width="356" height="22" rx="6" fill="#566365"/>
+  <rect x="90" y="258" width="300" height="22" rx="6" fill="#566365"/>
+  <rect x="532" y="160" width="238" height="56" rx="8" fill="#ffffff" stroke="#d7e2df"/>
+  <rect x="532" y="240" width="238" height="56" rx="8" fill="#dff2ee" stroke="#15847f"/>
+  <rect x="532" y="320" width="238" height="56" rx="8" fill="#ffffff" stroke="#d7e2df"/>
+  <rect x="90" y="378" width="270" height="28" rx="6" fill="#15847f"/>
+  <circle cx="684" cy="438" r="36" fill="#e1a82f"/>
+  <path d="M620 438h128" stroke="#d9543f" stroke-width="12" stroke-linecap="round"/>
+</svg>

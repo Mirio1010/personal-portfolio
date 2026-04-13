@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title">
+  <title id="title">Pocket Planetarium lesson screenshot</title>
+  <rect width="900" height="560" fill="#f8fbf9"/>
+  <rect x="28" y="28" width="844" height="64" rx="8" fill="#ffffff" stroke="#d7e2df"/>
+  <circle cx="70" cy="60" r="22" fill="#15847f"/>
+  <rect x="108" y="48" width="220" height="24" rx="6" fill="#1f2526"/>
+  <rect x="28" y="122" width="250" height="392" rx="8" fill="#ffffff" stroke="#d7e2df"/>
+  <rect x="56" y="164" width="160" height="28" rx="6" fill="#1f2526"/>
+  <rect x="56" y="230" width="194" height="48" rx="8" fill="#dff2ee"/>
+  <rect x="56" y="294" width="194" height="48" rx="8" fill="#ffffff" stroke="#d7e2df"/>
+  <rect x="56" y="358" width="194" height="48" rx="8" fill="#ffffff" stroke="#d7e2df"/>
+  <rect x="306" y="122" width="566" height="392" rx="8" fill="#ffffff" stroke="#d7e2df"/>
+  <rect x="340" y="170" width="220" height="38" rx="6" fill="#1f2526"/>
+  <rect x="340" y="232" width="300" height="18" rx="6" fill="#566365"/>
+  <rect x="340" y="266" width="248" height="18" rx="6" fill="#566365"/>
+  <rect x="340" y="340" width="112" height="46" rx="8" fill="#15847f"/>
+  <circle cx="712" cy="282" r="104" fill="#4da6d8"/>
+  <path d="M665 194c28 16 55 18 79 52 17 24-4 52-34 59-39 8-59-32-87-24 5-35 19-65 42-87z" fill="#4f8f45"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Pocket Planetarium icon</title>
+  <desc id="desc">A small telescope pointing toward a ringed planet.</desc>
+  <rect width="512" height="512" rx="96" fill="#15847f"/>
+  <circle cx="348" cy="150" r="66" fill="#f5c84c"/>
+  <ellipse cx="348" cy="150" rx="118" ry="32" fill="none" stroke="#ffffff" stroke-width="22"/>
+  <path d="M112 352l170-118 34 48-170 118z" fill="#ffffff"/>
+  <path d="M91 365l50-35 48 69-50 35z" fill="#1f2526"/>
+  <path d="M250 241l58-40 54 78-58 40z" fill="#d9543f"/>
+  <path d="M231 379h50l35 70h-120z" fill="#ffffff"/>
+</svg>

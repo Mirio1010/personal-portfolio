@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Jupiter</title>
+  <desc id="desc">An illustrated striped Jupiter.</desc>
+  <rect width="600" height="600" fill="#e7f3f0"/>
+  <clipPath id="clip">
+    <circle cx="300" cy="300" r="182"/>
+  </clipPath>
+  <g clip-path="url(#clip)">
+    <circle cx="300" cy="300" r="182" fill="#e1a82f"/>
+    <rect x="110" y="156" width="380" height="46" fill="#f8e2a0"/>
+    <rect x="110" y="232" width="380" height="36" fill="#d9543f"/>
+    <rect x="110" y="302" width="380" height="52" fill="#f8e2a0"/>
+    <rect x="110" y="386" width="380" height="42" fill="#b77c42"/>
+    <ellipse cx="380" cy="332" rx="58" ry="30" fill="#c63e32"/>
+    <ellipse cx="380" cy="332" rx="32" ry="16" fill="#f08a46"/>
+  </g>
+  <circle cx="300" cy="300" r="182" fill="none" stroke="#ffffff" stroke-width="10" opacity="0.8"/>
+</svg>

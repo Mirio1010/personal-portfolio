@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Saturn</title>
+  <desc id="desc">An illustrated Saturn with a wide ring.</desc>
+  <rect width="600" height="600" fill="#e7f3f0"/>
+  <g transform="translate(300 300)">
+    <ellipse rx="238" ry="72" fill="none" stroke="#ffffff" stroke-width="34"/>
+    <ellipse rx="238" ry="72" fill="none" stroke="#d9543f" stroke-width="18" opacity="0.7"/>
+    <circle r="142" fill="#e1a82f"/>
+    <path d="M-121-32c74 26 163 28 242 0v52c-74 22-158 21-242 0z" fill="#f5c84c"/>
+    <path d="M-142 6c79 20 174 20 284 0" fill="none" stroke="#b77c42" stroke-width="18"/>
+    <path d="M-235-12c70 20 147 31 235 31s165-11 235-31" fill="none" stroke="#ffffff" stroke-width="22"/>
+  </g>
+</svg>

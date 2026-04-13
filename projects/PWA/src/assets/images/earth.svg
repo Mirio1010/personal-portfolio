@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Earth</title>
+  <desc id="desc">An illustrated blue and green Earth.</desc>
+  <rect width="600" height="600" fill="#e7f3f0"/>
+  <circle cx="300" cy="300" r="176" fill="#4da6d8"/>
+  <path d="M216 162c30 20 70 18 95 55 22 33-7 68-42 76-52 12-76-45-113-34 9-42 29-76 60-97z" fill="#4f8f45"/>
+  <path d="M350 226c57-10 88 34 106 83-24 10-60 5-75 35-18 37-55 40-91 15-25-18-20-58 3-77 20-17 35-50 57-56z" fill="#4f8f45"/>
+  <path d="M255 407c40-17 88-4 111 28-31 22-72 35-115 27-18-4-34-10-49-19 12-16 29-27 53-36z" fill="#4f8f45"/>
+  <path d="M165 305c34 42 95 76 165 88 46 8 89 4 125-8" fill="none" stroke="#ffffff" stroke-width="16" opacity="0.75"/>
+</svg>

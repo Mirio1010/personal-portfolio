@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">The Sun</title>
+  <desc id="desc">A bright illustrated Sun with warm rays.</desc>
+  <rect width="600" height="600" fill="#e7f3f0"/>
+  <g transform="translate(300 300)">
+    <g stroke="#e1a82f" stroke-width="28" stroke-linecap="round">
+      <line x1="0" y1="-230" x2="0" y2="-172"/>
+      <line x1="0" y1="230" x2="0" y2="172"/>
+      <line x1="-230" y1="0" x2="-172" y2="0"/>
+      <line x1="230" y1="0" x2="172" y2="0"/>
+      <line x1="-162" y1="-162" x2="-122" y2="-122"/>
+      <line x1="162" y1="162" x2="122" y2="122"/>
+      <line x1="162" y1="-162" x2="122" y2="-122"/>
+      <line x1="-162" y1="162" x2="-122" y2="122"/>
+    </g>
+    <circle r="140" fill="#f5c84c"/>
+    <circle cx="-44" cy="-38" r="20" fill="#d9543f" opacity="0.5"/>
+    <circle cx="46" cy="34" r="30" fill="#f08a46" opacity="0.55"/>
+  </g>
+</svg>

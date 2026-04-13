@@ -1,0 +1,90 @@
+{
+  "appName": "Pocket Planetarium",
+  "topics": [
+    {
+      "id": "sun",
+      "title": "The Sun",
+      "description": "The Sun is a star at the center of our solar system. Its gravity holds the planets in orbit, and its light gives Earth the energy needed for weather, plants, and life.",
+      "image": "src/assets/images/sun.svg",
+      "imageAlt": "A bright illustrated Sun with warm rays.",
+      "audio": "tts",
+      "distance": "0 km",
+      "orbit": "Center point",
+      "type": "Star",
+      "caption": "The Sun contains most of the solar system's mass.",
+      "quiz": {
+        "question": "What keeps the planets moving around the Sun?",
+        "answers": ["Gravity", "Rain", "Magnet stickers"],
+        "correctAnswer": "Gravity"
+      }
+    },
+    {
+      "id": "earth",
+      "title": "Earth",
+      "description": "Earth is the rocky planet we call home. Liquid water, a protective atmosphere, and a steady supply of sunlight make it the only known world with life.",
+      "image": "src/assets/images/earth.svg",
+      "imageAlt": "An illustrated blue and green Earth.",
+      "audio": "tts",
+      "distance": "149.6 million km",
+      "orbit": "365.25 days",
+      "type": "Rocky planet",
+      "caption": "Earth's atmosphere helps keep temperatures livable.",
+      "quiz": {
+        "question": "About how long does Earth take to orbit the Sun?",
+        "answers": ["One day", "One year", "One hour"],
+        "correctAnswer": "One year"
+      }
+    },
+    {
+      "id": "mars",
+      "title": "Mars",
+      "description": "Mars is a cold desert world with rusty soil, polar ice caps, and the tallest volcano in the solar system. Robotic explorers study it for clues about ancient water.",
+      "image": "src/assets/images/mars.svg",
+      "imageAlt": "An illustrated orange-red Mars.",
+      "audio": "tts",
+      "distance": "227.9 million km",
+      "orbit": "687 days",
+      "type": "Rocky planet",
+      "caption": "Iron-rich dust gives Mars its red color.",
+      "quiz": {
+        "question": "Why does Mars look red?",
+        "answers": ["Iron-rich dust", "Fresh lava", "Red clouds"],
+        "correctAnswer": "Iron-rich dust"
+      }
+    },
+    {
+      "id": "jupiter",
+      "title": "Jupiter",
+      "description": "Jupiter is the largest planet in the solar system. It is a gas giant with powerful storms, dozens of moons, and a famous storm called the Great Red Spot.",
+      "image": "src/assets/images/jupiter.svg",
+      "imageAlt": "An illustrated striped Jupiter.",
+      "audio": "tts",
+      "distance": "778.5 million km",
+      "orbit": "11.9 years",
+      "type": "Gas giant",
+      "caption": "Jupiter is so large that more than 1,300 Earths could fit inside it.",
+      "quiz": {
+        "question": "What kind of planet is Jupiter?",
+        "answers": ["Gas giant", "Ice cube", "Tiny moon"],
+        "correctAnswer": "Gas giant"
+      }
+    },
+    {
+      "id": "saturn",
+      "title": "Saturn",
+      "description": "Saturn is a gas giant known for its wide ring system. The rings are made of countless pieces of ice and rock, from tiny grains to boulder-sized chunks.",
+      "image": "src/assets/images/saturn.svg",
+      "imageAlt": "An illustrated Saturn with a wide ring.",
+      "audio": "tts",
+      "distance": "1.43 billion km",
+      "orbit": "29.5 years",
+      "type": "Gas giant",
+      "caption": "Saturn's rings are thin compared with their enormous width.",
+      "quiz": {
+        "question": "What are Saturn's rings mostly made from?",
+        "answers": ["Ice and rock", "Leaves", "Smoke"],
+        "correctAnswer": "Ice and rock"
+      }
+    }
+  ]
+}
