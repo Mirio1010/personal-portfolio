@@ -118,6 +118,17 @@ button[aria-pressed="true"] {
   color: var(--muted);
 }
 
+.topbar-actions .portfolio-link {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  color: var(--ink);
+  padding: 0.65rem 0.85rem;
+}
+
+.topbar-actions .portfolio-link:hover {
+  background: #edf5f2;
+}
+
 .secondary-button,
 .secondary-link {
   border: 1px solid var(--line);
