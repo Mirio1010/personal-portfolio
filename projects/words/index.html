@@ -1,42 +1,66 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Multimedia Dictionary</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <div class="container">
-    <h1>Multimedia Dictionary</h1>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Multimedia Dictionary</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Multimedia Dictionary</h1>
 
-    <div class="section">
-      <label for="wordSelect">Choose a Word</label>
-      <div class="row">
-        <select id="wordSelect" onchange="syncSentence()">
-          <option value="">-- Select a Word --</option>
-          <option value="Apple" data-sentence="The apple is red and juicy.">Apple</option>
-          <option value="Dog" data-sentence="The dog barked loudly in the yard.">Dog</option>
-          <option value="Book" data-sentence="I read a book before going to sleep.">Book</option>
-          <option value="Sun" data-sentence="The sun shines brightly in the sky.">Sun</option>
-          <option value="Car" data-sentence="The car moved quickly down the street.">Car</option>
-        </select>
+      <div class="section">
+        <label for="wordSelect">Choose a Word</label>
+        <div class="row">
+          <select id="wordSelect" onchange="syncSentence()">
+            <option value="">-- Select a Word --</option>
+            <option value="Apple" data-sentence="The apple is red and juicy.">
+              Apple
+            </option>
+            <option
+              value="Dog"
+              data-sentence="The dog barked loudly in the yard."
+            >
+              Dog
+            </option>
+            <option
+              value="Book"
+              data-sentence="I read a book before going to sleep."
+            >
+              Book
+            </option>
+            <option
+              value="Sun"
+              data-sentence="The sun shines brightly in the sky."
+            >
+              Sun
+            </option>
+            <option
+              value="Car"
+              data-sentence="The car moved quickly down the street."
+            >
+              Car
+            </option>
+          </select>
 
-        <button onclick="speakWord()">Speak Word</button>
+          <button onclick="speakWord()">Speak Word</button>
+        </div>
+      </div>
+
+      <div class="section">
+        <label for="sentenceDisplay">Sentence</label>
+        <div class="row">
+          <textarea id="sentenceDisplay" readonly></textarea>
+          <button onclick="speakSentence()">Speak Sentence</button>
+        </div>
       </div>
     </div>
 
-    <div class="section">
-      <label for="sentenceDisplay">Sentence</label>
-      <div class="row">
-        <textarea id="sentenceDisplay" readonly></textarea>
-        <button onclick="speakSentence()">Speak Sentence</button>
-      </div>
+    <div class="link-container">
+      <a href="../../index.html">Return to Main Page</a>
     </div>
-  </div>
 
-  <script src="app.js"> </script>
-    
- 
-</body>
+    <script src="app.js"></script>
+  </body>
 </html>

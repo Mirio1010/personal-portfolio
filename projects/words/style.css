@@ -4,6 +4,7 @@ body {
   margin: 0;
   padding: 40px;
   color: #222;
+
 }
 
 .container {
@@ -13,6 +14,7 @@ body {
   padding: 30px;
   border-radius: 14px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  
 }
 
 h1 {
@@ -66,3 +68,9 @@ button {
 button:hover {
   background: #650e0e;
 }
+
+.link-container {
+    margin-top: 5px;
+    text-align: center;
+}
+
